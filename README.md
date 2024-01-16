@@ -1,4 +1,4 @@
-## Curso de Data Science y SQLite3 con NUMPIS, PANDA y Jupyter
+## Curso de Data Science y SQLite3 con NumPy, PANDA y Jupyter
 
 [Enlace al curso en Udemy](https://www.udemy.com/course/python-3-analisis-y-visualizacion-de-datos/)
 
